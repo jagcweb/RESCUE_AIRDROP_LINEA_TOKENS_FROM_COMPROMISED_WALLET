@@ -1,6 +1,7 @@
 Guía de como usar el rescatador de tokens Linea de una wallet comprometida.
 
-Paso 1: Crear un RPC personalizado para el claim (los RPC públicos se colapsarán). Ir a https://developer.metamask.io/key/active-endpoints y copiar esto.
+Paso 1: Crear un RPC personalizado para el claim (los RPC públicos se colapsarán). Ir a https://developer.metamask.io/key/active-endpoints y copiar esto. <img width="901" height="231" alt="imagen" src="https://github.com/user-attachments/assets/9d9a15b6-9731-4679-ab6d-43ad7062be0e" />
+
 
 Paso 2: Descargar el código como ZIP. Crear carpeta "rescue_linea_tokens" en tu escritorio y extrae los ficheros del ZIP.
 
