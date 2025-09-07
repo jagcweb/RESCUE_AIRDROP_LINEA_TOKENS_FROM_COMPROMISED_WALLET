@@ -18,7 +18,7 @@ Paso 5: Editar el RPC, Clave privada de la wallet origen y dirección de la wall
 
 Paso 6: En este paso tenemos dos escenarios posibles.
 
-<pre>```npm install```</pre>
+<pre>npm install</pre>
 
 - Escenario 1: Tu wallet tiene un drainer en el token ETH (el más común). En este caso, has de escribir en el CMD el comando: <pre>```node claimAndSendLineaTokensToSafeWallet```</pre> Con esto ejecutarás automatizarás el claim una vez inicie y en cuanto se claimee, mandará los tokens a tu wallet destino. Para más seguridad, te aconsejo ejecutar también, en otra consola el otro fichero con el comando: <pre>```node sniperLikeTokenAndTransfer```</pre> Así te aseguras que en cuanto lleguen los tokens Linea a tu wallet comprometida, se enviarán automaticamente a tu wallet destino.
 
